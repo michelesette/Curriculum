@@ -1,0 +1,34 @@
+.masthead {
+    height: 90vh;
+    min-height: 500px;
+    background-image: url('./media/background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.image {
+    width: 20vw;
+    min-width: 200px;
+    overflow: hidden;
+    border-radius: 50%;
+
+}
+
+.bg1 {
+    background-color: #E7E8EC;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.bg2 {
+    background-color: #E7E8EC;
+}
+
+.attestato {
+    width: 280px;
+}
+
+.animazioni {
+    width: 280px ;
+}
