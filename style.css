@@ -33,3 +33,7 @@
 .animazioni {
     width: 280px ;
 }
+
+.box{
+    max-width: 70vw;
+ }
